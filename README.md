@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+Team Knox
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Problem Statement
 
-## Available Scripts
+The Human Development Index (HDI) was created to emphasize that people and their capabilities should be the ultimate criteria for assessing the development of a country, not economic growth alone. The HDI can also be used to question national policy choices, asking how two countries with the same level of GNI per capita can end up with different human development outcomes. These contrasts can stimulate debate about government policy priorities.
 
-In the project directory, you can run:
+Track : Geopolitics
 
-### `npm start`
+HDI Visualizations : 
+we have performed visualization and classification on world map which classifies the data into basically 4 categories :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+less than 0.550 for low human development,
+0.550–0.699 for medium human development,
+0.700–0.799 for high human development and
+0.800 or greater for very high human development.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Key Features:
+1. It is important to achieve universal access to health and education. Without any delays, the national policy should be put into practise, and the quality and dropout rates in public schools should be monitored.
+2. Regional differences in development and social indicators, such as infant mortality, literacy, etc., should be reduced. States that are falling behind should encourage investment, especially in industries with high employment rates. Additionally, the central government should offer them performance-based incentives to raise their social indicators.
+3. You should also look into the gender pay gap in the workplace. Workplaces need to be made more gender inclusive, along with changing how families view working women and encouraging spouses to help out around the house.
+4.The social justice system needs to be improved. Even though Dalits are given preference for employment and college admissions, their representation in higher positions is still insignificant when compared to their overall population. Additionally, it is important to address the discrimination people experience when using public services and in society at large.
+ 
+ 
+ 
+ to run the project : npm start
