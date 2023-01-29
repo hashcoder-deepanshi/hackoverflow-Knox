@@ -2,19 +2,25 @@ import LegendItem from "./LegendItem";
 
 const legendItems = [
     new LegendItem(
-        "0 - 0.550 ",
-        "#FBB4B9",
+        "0.300 - 0.400 ",
+        "yellow",
         (HDI) => HDI > 0 && HDI < 0.550,
         "black"
     ),
     new LegendItem(
-        "0.55 - 0.699",
-        "#F768A1",
+        "0.400 - 0.499",
+        "red",
         (HDI) => HDI >= 0.550 && HDI <0.699,
         "black"
     ),
     new LegendItem(
-        "0.6.99 - 0.799",
+        "0.500 - 0.699",
+        "orange",
+        (HDI) => HDI >= 0.699 && HDI <0.799,
+        "black"
+    ),
+    new LegendItem(
+        "0.699 - 0.799",
         "#C51B8A",
         (HDI) => HDI >= 0.699 && HDI <0.799,
         "black"
